@@ -1,3 +1,3 @@
-My First Website </br>
+My First Website, </br>
 Very Simple 
-only With HTML, CSS
+only With HTML, CSS.
